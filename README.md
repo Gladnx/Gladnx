@@ -16,5 +16,5 @@ AI Engineer passionate about building intelligent systems that turn raw data int
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,flask,mysql,git,github,gitlab,docker,r,anaconda" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,flask,mysql,git,github,gitlab,docker,r,anaconda,react,tailwindcss,postman" />
 </p>
