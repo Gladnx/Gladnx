@@ -3,15 +3,13 @@
 <h1 align="center">Hi 👋, I'm Gladwin George</h1>
 
 <p align="center">
-<a href="mailto:gladwin18902@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/gladwin-george-">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Gladnx">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="mailto:gladwin18902@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gladwin-george-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/Gladnx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+&nbsp;
+<a href="https://gladnx.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge"/></a>
 </p>
 
 <p align="center">
