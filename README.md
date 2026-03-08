@@ -32,7 +32,7 @@
 
 <h3>💻 Programming & Development</h3>
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,r,html,css,react,tailwind,nodejs,flask,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,js,r,html,css,react,tailwind,mysql,nodejs,flask,vercel" />
 </p>
 
 <h3>📊 Data Science & Machine Learning</h3>
